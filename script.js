@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     {
       "name": "Turpentine Mango",
-      "description": "Famous for its barbecue and lively music scene, this mango variety has deep cultural and commercial roots.",
+      "description": "FThe Turpentine mango is a medium to large mango variety known for its elongated shape and green skin. It offers a bold and complex flavor, featuring a balance of sweetness, tartness, and a hint of citrus. The mango's fibrous and stringy texture contributes to its unique eating experience. Recognized by its distinctive turpentine-like aroma, this mango has cultural significance and is cultivated in regions like Cuba. Best enjoyed when fully ripe and turns bright yellow.",
       "image": "turpentine.jpeg",
       "origin": "Cuba"
     },
