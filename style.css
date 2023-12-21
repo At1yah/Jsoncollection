@@ -1,0 +1,81 @@
+body {
+  font-family: CaviarDreams, sans-serif;
+  color: white;
+  background-color: #123606;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 150px;
+  font-family: KastellaScript, sans-serif;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  letter-spacing: 3px;
+  margin-top: 10px;
+  padding-top: 10px;
+  line-height: 120px;
+}
+
+.mango h2 {
+  color: #e8af10; 
+  font-family: Bebas-Regular, sans-serif; 
+  font-size: 24px; 
+  margin-bottom: 5px; 
+}
+
+.mango {
+   border: 1px solid #ccc;
+  margin: 10px;
+  padding: 20px;
+  background-color: black;
+  text-align: center; 
+}
+.Drop{
+	display: flex;
+	transform: rotate(-90deg);
+	z-index: -1;
+	margin-top: -35vh;
+	justify-content: center;
+	position: absolute;
+	width: 70%;
+
+}
+.mango img {
+  width: 100%; 
+  height: auto;
+  object-fit: cover; 
+  display: block; 
+  margin: 0 auto; 
+}
+
+.type{
+	margin-top: 35vh;
+	font-family: Bebas-Regular, sans-serif;
+	color: #e8af10;
+	font-size: 50px;
+	text-align: center;
+}
+
+@font-face {
+font-family: 'KastellaScript';
+src: url(KastellaScript.otf);
+}
+
+@font-face {
+font-family: 'Bebas-Regular';
+src: url(Bebas-Regular.ttf);
+}
+
+@font-face {
+font-family: 'CaviarDreams';
+src: url(CaviarDreams.ttf);
+}
+
+
